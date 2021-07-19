@@ -29,4 +29,4 @@ Some fundamental React concepts that were explored in this project are:
 The default application view upon load.
 ![Default Display](src/img/Project_Pomodoro_Timer_Home_Screen.png)
 Display during a study session. 
-![Study Display](src/img/Project_Pomodoro_Timer_Active_Session_Screen.png)
+![Study Display](src/img/Project_Pomodoro_Timer_Session_Active_Screen.png)
